@@ -1,6 +1,6 @@
 # spark-project
 An end-to-end sentiment analysis project with Apache Spark and Spark NLP
-![Spark Logo](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
+![Spark Logo](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png](https://commons.wikimedia.org/wiki/File:Apache_Spark_logo.svg)
 
 Project Description : 
 This is the final project of the Big Data course. The purpose of this project is to develop a sentiment analysis model with a Multinomial Naive Bayes algorithm 
